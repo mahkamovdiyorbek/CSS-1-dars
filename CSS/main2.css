@@ -1,0 +1,7 @@
+body{
+    background-color: brown;
+    background-image: url("../rasmlar/programist.jpg");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: 300px 100px;
+}
